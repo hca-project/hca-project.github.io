@@ -1,0 +1,5 @@
+main:
+  - title: "Overview"
+    url: /#overview
+  - title: "Contact"
+    url: /#contact
