@@ -11,6 +11,19 @@ The [Host Code Abstraction (HCA)](TODO) is a high-level programming abstraction 
 **More details will follow soon!**
 
 <br>
+# Publications
+
+1.  A. Rasch, M. Wrodarczyk, R. Schulze, S. Gorlatch \\
+    [OCAL: An Abstraction for Host- Code Programming with OpenCL and CUDA](https://ieeexplore.ieee.org/abstract/document/8644541?casa_token=XYcMMQCmA1sAAAAA:OxP9FJD_Gdlzz2Xu5OhB_wwgzva7VKYhFy-Y7CrM_1Zi2l8YSTvsj5Duk3Nri34gDjrndahvLhU) \\
+    *IEEE International Conference on Parallel and Distributed Systems (ICPADS 2018)*\\
+    <a href="../assets/files/paper/icpads18/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/paper/icpads18/paper.pdf)
+
+2.  A. Rasch, J.Bigge, M. Wrodarczyk, R. Schulze, S. Gorlatch \\
+    [dOCAL: High-Level Distributed Programming with OpenCL and CUDA](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s11227-019-02829-2&casa_token=XIMdqk5xl0UAAAAA:jQ39fJF1PsAT0Y-Y4iUz9qmvnRrHjh6E5YJuDlXgo2CEMv7qgR20rB8Zo1VyT6jMrRB3PIPXmhaQMnJfyA) \\
+    *The Journal of Supercomputing (JOS 2019)*\\
+    <a href="../assets/files/paper/jos19/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/paper/jos19/paper.pdf)
+
+<br>
 # Contact
 
 <div class="card_container">
