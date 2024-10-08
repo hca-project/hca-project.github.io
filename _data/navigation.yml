@@ -1,5 +1,7 @@
 main:
   - title: "Overview"
     url: /#overview
+  - title: "Publications"
+    url: /#publications
   - title: "Contact"
     url: /#contact
